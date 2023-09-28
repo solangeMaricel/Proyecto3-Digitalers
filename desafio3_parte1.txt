@@ -1,0 +1,12 @@
+PARTE I - PROYECTO FINAL
+Crear en un POWERBI con PowerQuery una extracción de BingMaps de Latitud y Longitud con el siguiente dataset:
+
+https://es.wikipedia.org/wiki/Wikiproyecto:Ciudades/Capitales_de_pa%C3%ADses
+
+Reorganizar las columnas de continente, pais y ciudad
+
+Prepara la información para geolocalizar automaticamente usando LenguajeM, extraer latitud y longitud desde Bing
+
+link de busqueda: http://dev.virtualearth.net/REST/v1/Locations/locationQuery?key={BingMapsKey}
+
+localizarlas en un mapa de Arcgis
